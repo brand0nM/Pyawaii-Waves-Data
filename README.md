@@ -6,6 +6,7 @@ The purpose of the analysis is well defined. (3 pt)
 ### Purpose
 
 ## Analysis
+<img width="939" alt="Screen Shot 2022-05-15 at 2 30 11 PM" src="https://user-images.githubusercontent.com/79609464/168492642-6c57d3be-2c78-4070-a6e3-3e22382d9c17.png">
 
 ### Challenges and Difficulties Encountered
 
