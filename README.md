@@ -1,4 +1,4 @@
-# Pyawaii-Waves-Data
+# Pyawaii-Weather-Data
 ## Project Overview
 We've been hired to create a mobile app that tracks weather data and filters results locally. 
 
