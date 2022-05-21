@@ -10,6 +10,7 @@ __pycache__/
 app.py
 climate_analysis.ipynb
 hawaii.sqlite
+SurfsUp_Challenge_1.ipynb
 
 # Distribution / packaging
 .Python
