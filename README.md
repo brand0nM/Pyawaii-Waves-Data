@@ -21,3 +21,6 @@ After creating an engine and inspecting the tables/columns, one can use SQLalche
 
 ## Summary
 Temperatures are most volatile in December; this can be observed in the standard deviation/spread of high to low temperatures. Looking at a specific station's data confirms this belief.
+- George Washington
+- John Adams
+- Thomas Jefferson
